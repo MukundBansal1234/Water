@@ -1,0 +1,210 @@
+
+
+
+a:link{
+    color:red;
+}
+a:visited{
+    color:red;
+}
+
+
+.water{
+    color:white;
+    text-align: center;
+    font-size: 300px;
+    font-family: comic sans ms; 
+}
+.footer2{
+    display: flex;
+    justify-content:space-between ;
+}
+.footer1{
+    display: flex;
+    justify-content:space-between ;
+}
+.intro{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family:  comic sans ms;  
+
+
+}
+.usage{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family:  comic sans ms;  
+
+
+}
+.footer3{
+    display: flex;
+    justify-content:space-between ;
+}
+body{
+    background-image: url(fishy.png);
+    height: 50%;
+
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header{
+    text-align: center;
+    font-size: 80px;
+    font-family:  comic sans ms; 
+
+    color: white;
+}
+.sources{
+    color: white;
+    text-align: left;
+    font-size: 50px;
+    font-family:  comic sans ms; 
+
+
+}
+.availability{
+    color: white;
+    text-align: left;
+    font-size: 50px;
+    font-family:  comic sans ms ; 
+
+
+}
+.india{
+    color: white;
+    text-align: left;
+    font-size: 50px;
+    font-family:  comic sans ms;  
+
+
+}
+.waste1{
+    color: white;
+    text-align: left;
+    font-size: 50px;
+    font-family:  comic sans ms; 
+
+
+}
+.waste{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family:  comic sans ms; 
+
+
+}
+.cons{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family:  comic sans ms; 
+
+
+}
+.health{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family:  comic sans ms; 
+
+
+}
+.credits{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family:  comic sans ms; 
+
+}
+.waste3{
+    color: white;
+    text-align: left;
+    font-size: 50px;
+    font-family:  comic sans ms; 
+
+
+}
+.cons2{
+    color: white;
+    text-align: left;
+    font-size: 50px;
+    font-family:  comic sans ms; 
+
+
+}
+.credits2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family:  comic sans ms; 
+
+
+}
+.health3{
+    color: white;
+    text-align: left;
+    font-size: 50px;
+    font-family:  comic sans ms; 
+
+
+}
+
+
+.footer4{
+    display: flex;
+    justify-content:space-between ;
+}
+.sources1{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.availability1{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.india1{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.img{
+    text-align: center;
+}
+.waste2{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.waste4{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.cons3{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.health2,.health4{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.intro2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.usage2{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
